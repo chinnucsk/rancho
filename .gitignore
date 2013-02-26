@@ -1,5 +1,8 @@
+# Erlang config
 .eunit
 deps
 *.o
 *.beam
 *.plt
+*.*~
+ebin
